@@ -15,14 +15,16 @@
 ---
 
 ### Project structure
+
 This project consists of 1 deploy-able artefacts:
+```
 +-- HLF
 +-- .idea
 |   +-- src/
 +-- target
 +-- pom.xml
 +-- README.md
----
+```
 
 ### Local development
 
