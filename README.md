@@ -6,6 +6,7 @@
 - Spring Boot ~> 2.5.2
 - Maven \>= 3.6.3
 - IDE of your choice (e.g Intellij/Eclipse/STS etc)
+- thymeleaf
 
 ## Database
 - mysql
