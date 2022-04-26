@@ -1,4 +1,4 @@
-package net.javaguides.springboot.springsecurity;
+package hlf.portal.app.com;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -1,4 +1,4 @@
-package net.javaguides.springboot.springsecurity.model;
+package hlf.portal.app.com.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

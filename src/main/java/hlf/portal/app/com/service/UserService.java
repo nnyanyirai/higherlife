@@ -1,9 +1,9 @@
-package net.javaguides.springboot.springsecurity.service;
+package hlf.portal.app.com.service;
 
 import org.springframework.security.core.userdetails.UserDetailsService;
 
-import net.javaguides.springboot.springsecurity.model.User;
-import net.javaguides.springboot.springsecurity.web.dto.UserRegistrationDto;
+import hlf.portal.app.com.model.User;
+import hlf.portal.app.com.web.dto.UserRegistrationDto;
 
 public interface UserService extends UserDetailsService {
 

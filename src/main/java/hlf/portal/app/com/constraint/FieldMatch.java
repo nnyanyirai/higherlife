@@ -1,4 +1,4 @@
-package net.javaguides.springboot.springsecurity.constraint;
+package hlf.portal.app.com.constraint;
 
 import javax.validation.Payload;
 import javax.validation.Constraint;
